@@ -1,7 +1,6 @@
 # Meeting Minutes Template
 ## Copy and paste the following at the top of the minutes log to add new minutes!
-## <br>
-**Date**: Year-Month-Day format<br>
+## Year-Month-Day format
 **Chair**: Name<br>
 **Attendees**: Name<br>
 **Meeting Agenda**: Goals, Planning Notes/Suggestions, Previous Meeting Tasks<br>
@@ -18,8 +17,7 @@ Action Items:
 | Row 1 Col 1  | Row 1 Col 2           | Row 1 Col 3 | Row 1 Col 4     |
 
 # Meeting Minutes Samples
-## <br>
-**Date**: 2020-11-25<br>
+## 2020-11-25
 **Chair**: Dr. Chair<br>
 **Attendees**: Atten Dee<br>
 **Meeting Agenda**: Show how to create minutes<br>
@@ -35,8 +33,7 @@ Action Items:
 | ------------ | --------------------- | -------- | --------------- |
 | Get a working example  | Atten D.           | N/A    | Today     |
 
-## <br>
-**Date**: 2020-11-25<br>
+## 2020-11-25
 **Chair**: Dr. Chair<br>
 **Attendees**: Atten Ay, Atten Bee, Atten Cee, Atten Dee<br>
 **Meeting Agenda**: Show how to create minutes again<br>
