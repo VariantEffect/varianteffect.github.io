@@ -1,6 +1,6 @@
 ## This is a sample static webpage for an AVE Working Group!
 
-# ========= Everything below here is just stuff from the template =========
+# === Everything below here is just stuff from the template ===
 
 You can use the [editor on GitHub](https://github.com/VariantEffect/varianteffect.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
