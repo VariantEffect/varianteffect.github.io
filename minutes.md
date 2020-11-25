@@ -1,6 +1,6 @@
 # Meeting Minutes Template
 Copy and paste the following at the top of the minutes log to add new minutes!  
-To see the markdown version of this, you can click `raw`. To make edits, click on the pencil icon!
+To see the markdown version of this, you can click `Raw`. To make edits, click on the pencil icon!
 ## Year-Month-Day format
 **Chair**: Name<br>
 **Attendees**: Name<br>
