@@ -6,6 +6,8 @@ We have a lot of great members and they are listed below.
 
 All members of this team must follow the [AVE Code of Conduct](https://varianteffect.github.io/coc.html).
 
+Meeting minutes are available [here](minutes.md).
+
 ## Working group membership
 
 ### Chairs
