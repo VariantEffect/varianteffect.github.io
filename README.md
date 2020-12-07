@@ -1,6 +1,35 @@
-## This is a sample static webpage for an AVE Working Group!
+# Sample AVE working group page
 
-# === Everything below here is just stuff from the template ===
+The Sample AVE Working group is going to do some really great stuff.
+This paragraph talks about some of the great stuff we're going to do.
+We have a lot of great members and they are listed below.
+
+All members of this team must follow the [AVE Code of Conduct](https://varianteffect.github.io/coc.html).
+
+## Working group membership
+
+### Chairs
+- Person A (University of GitHub)
+- Person B (GitHub Institute)
+
+### Members
+- Person C (GitHub Genomics)
+- Person D (University of GitHub)
+
+## Working group projects
+
+Here we can put additional details about specific projects that this working group is taking on.
+This can include links to external resources and documents, either hosted here on GitHub pages or elsewhere.
+
+### Project 1
+
+Each project can have its own section if that makese sense for the group.
+
+### Project 2
+
+We are a busy group!
+
+## === GitHub pages template content below this point ===
 
 You can use the [editor on GitHub](https://github.com/VariantEffect/varianteffect.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
