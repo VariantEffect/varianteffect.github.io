@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+title: Sample AVE Working Group
+description: Page for the Sample AVE Working Group.
+theme: jekyll-theme-minimal
+logo: /assets/ave_logo.svg
