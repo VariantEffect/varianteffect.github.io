@@ -4,9 +4,11 @@ The Sample AVE Working group is going to do some really great stuff.
 This paragraph talks about some of the great stuff we're going to do.
 We have a lot of great members and they are listed below.
 
-All members of this team must follow the [AVE Code of Conduct](https://varianteffect.github.io/coc.html).
+All members of this team must follow the [AVE Code of Conduct](https://docs.google.com/document/d/1Z3p6zpiKovRHhFTXOnK0RKSPrQ_b6_BHTSuvSz9oo-g/edit?usp=sharing).
 
-Meeting minutes are available [here](minutes.md).
+Meeting minutes are available [here](https://docs.google.com/document/d/1WCidVXPot1WpNc6IaATNqi_yr5BKUeuvbllsIgqDtHY/edit#).
+
+The working group shared folder is available [here](https://drive.google.com/drive/folders/1XEm71zcp7EmZ8iob53qfH9KvskrDp2g1?usp=sharing).
 
 ## Working group membership
 
